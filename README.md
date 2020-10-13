@@ -41,4 +41,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - https://forums.anandtech.com/threads/lvds-cable-for-the-asus-prime-h310t-csm.2563250/
   - Panels/Display assemblies TBD
     - LVDS 40 displays
+ - Keyboard
+  - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
+
 
