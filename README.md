@@ -44,4 +44,11 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
  - Keyboard
   - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
 
+# Current tasks
+
+- Display connection proof of concept
+  - Buy mainboard
+  - Buy display
+  - Buy/manufacture display cable
+  - Prove working display
 
