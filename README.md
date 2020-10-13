@@ -1,12 +1,14 @@
+# Whatisit
+
 Open Source Laptop hardware based on industry standards for real everyday use
 
-#Goals
+# Goals
 
 Build/develop and maintain your laptop, as you do with your desktop computer.
 
 Project ceases: If laptop manufacturers starts to build laptops again with _keyboards_, not with randomly placed buttons.
 
-#Current ideas
+# Current ideas
 
 - Thin Mini ITX mainboard
   - Low power processor used (<35W)
@@ -20,7 +22,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 - Sound : TBD Currently external sound
 
 
-#Hardware ideas
+# Hardware ideas
 
 - Motherboard options
   - ASUS Pro H410T/CSM https://www.asus.com/Motherboards/Pro-H410T-CSM/overview/
