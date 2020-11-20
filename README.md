@@ -25,8 +25,8 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 # Hardware ideas
 
 - Motherboard options
-  - ASUS Pro H410T/CSM https://www.asus.com/Motherboards/Pro-H410T-CSM/overview/
-  - ASUS PRIME H310T R2.0/CSM https://www.asus.com/Motherboards/PRIME-H310T-R2-0-CSM/overview/
+  - ASUS Pro H410T/CSM https://www.asus.com/motherboards-components/motherboards/business/Pro-H410T-CSM
+  - ASUS PRIME H310T R2.0/CSM https://www.asus.com/Motherboards-Components/Motherboards/Business/PRIME-H310T/
   - Asrock IMB-1216 https://www.asrockind.com/IMB-1216
 - Processor/memory 
   - As motherboard requests
