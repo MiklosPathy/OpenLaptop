@@ -26,6 +26,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 
 - Motherboard options
   - ASUS Pro H410T/CSM https://www.asus.com/motherboards-components/motherboards/business/Pro-H410T-CSM
+  - AAEON MIX-Q370D1 https://www.aaeon.com/en/p/mini-itx-motherboards-mix-q370d1
   - ASUS PRIME H310T R2.0/CSM https://www.asus.com/Motherboards-Components/Motherboards/Business/PRIME-H310T/
   - Asrock IMB-1216 https://www.asrockind.com/IMB-1216
 - Processor/memory 
@@ -41,6 +42,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - https://forums.anandtech.com/threads/lvds-cable-for-the-asus-prime-h310t-csm.2563250/
   - Panels/Display assemblies TBD
     - LVDS 40 displays
+    - eDP displays
  - Keyboard
   - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
 
