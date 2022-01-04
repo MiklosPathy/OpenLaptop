@@ -36,6 +36,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - Heatpipies https://www.aliexpress.com/item/32446947034.html
   - Passive cooling through alu case
   - Active cooling with thin coolers https://www.thermaltake.com/C_00003213.htm
+  - Intel Thermal Solution HTS1155lp https://www.ebay.com/itm/334085185276
 - Display
   - Cabling TBD
     - https://www.hklrf.com/LVDS-Cable-for-screen-Asus-N56J-40-pin-p-n-14005-01140000-DDNJ8GLC100-14005-01140100_5180.html
