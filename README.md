@@ -29,6 +29,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - AAEON MIX-Q370D1 https://www.aaeon.com/en/p/mini-itx-motherboards-mix-q370d1
   - ASUS PRIME H310T R2.0/CSM https://www.asus.com/Motherboards-Components/Motherboards/Business/PRIME-H310T/
   - Asrock IMB-1216 https://www.asrockind.com/IMB-1216
+  - Asrock X300TM-ITX https://www.asrock.com/MB/AMD/X300TM-ITX/index.asp#Overview
 - Processor/memory 
   - As motherboard requests
 - Cooling
@@ -40,6 +41,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - https://www.hklrf.com/LVDS-Cable-for-screen-Asus-N56J-40-pin-p-n-14005-01140000-DDNJ8GLC100-14005-01140100_5180.html
     - https://hardwarerecs.stackexchange.com/questions/13080/lvds-for-asus-h310t-r2-0
     - https://forums.anandtech.com/threads/lvds-cable-for-the-asus-prime-h310t-csm.2563250/
+    - https://www.ebay.com/itm/194591997846?hash=item2d4e963f96:g:yZMAAOSwLCRc93UY
   - Panels/Display assemblies TBD
     - LVDS 40 displays
     - eDP displays
