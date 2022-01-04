@@ -49,6 +49,11 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
  - Keyboard
   - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
 
+# Good Source
+
+http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
+
+
 # Current tasks
 
 - Display connection proof of concept
