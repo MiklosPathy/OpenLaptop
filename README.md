@@ -4,7 +4,9 @@ Open Source Laptop hardware based on industry standards for real everyday use
 
 # Goals
 
-Build/develop and maintain your laptop, as you do with your desktop computer.
+- Build/develop and maintain your laptop, as you do with your desktop computer.
+- The baseline size factor somewhere around Lenovo T520/W520 (The last known useable laptop in history.)
+- Daily useable computer. So: Up to date x86 architecture, Windows. 
 
 Project ceases: If laptop manufacturers starts to build laptops again with _keyboards_, not with randomly placed buttons.
 
