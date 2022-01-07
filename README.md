@@ -19,8 +19,8 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 - USB Keyboard (internal connectors)
 - Touchpad : TBD
 - Mouse : USB (external)
-- Display : some LVDS 40 panel with case and hinge, probably ASUS (because of the selected mainboard, some eDP or HDMI display would be better)
-- Case: Self made, bent/welded aluminium plate casing
+- Display : some LVDS 40 panel with case and hinge, (some eDP or HDMI display would be better, but this is just wishful thinking)
+- Case: Self made, bent/welded aluminium plate casing, 3D printed plastic parts
 - Battery/power management : TBD Currently only external power
 - Sound : TBD Currently external sound
 
