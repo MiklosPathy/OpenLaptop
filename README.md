@@ -63,7 +63,13 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
 
 - Display connection proof of concept
   - Buy mainboard
+    - DONE. (Asrock X300TM-ITX) Waiting for delivery. 
   - Buy display
+    - DONE. I will have my spare LG LCD panel. (LP156WD1)
   - Buy/manufacture display cable
+    - DONE. (https://www.ebay.com/itm/154290360394) Waiting for delivery.
+  - Buy processor.
+  - Buy memory.
+  - Assemble power supply solution. (Probably first a simple cable with Lab PSU)
   - Prove working display
 
