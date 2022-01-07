@@ -1,7 +1,7 @@
-# Whatisit
+# What is this
 
 Open Source Laptop hardware based on industry standards for real everyday use
-![pic-too-ree](https://github.com/MiklosPathy/OpenLaptop/blob/main/Current_CAD_Render.png)
+![](Current_CAD_Render.png)
 
 # Goals
 
