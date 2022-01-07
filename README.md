@@ -1,6 +1,7 @@
 # What is this
 
-Open Source Laptop hardware based on industry standards for real everyday use
+Open Source PC casing in Laptop form. Based on industry standards for everyday use.
+
 ![](Current_CAD_Render.png)
 
 # Goals
