@@ -15,7 +15,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 # Current ideas
 
 - Thin Mini ITX mainboard
-  - Low power processor used (<35W)
+  - Low power processor used (<=45W)
   - Laptop memories
 - USB Keyboard (internal connectors)
 - Touchpad : TBD
