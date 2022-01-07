@@ -44,9 +44,11 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - https://forums.anandtech.com/threads/lvds-cable-for-the-asus-prime-h310t-csm.2563250/
     - https://www.ebay.com/itm/194591997846?hash=item2d4e963f96:g:yZMAAOSwLCRc93UY
     - LVDS 30 Cable for X300TM-ITX https://www.ebay.com/itm/252878881711?hash=item3ae0c183af:g:RBgAAOSwmCVY9cDk
+    - LVDS 40 Cable between X300TM-ITX and LP156WD1 https://www.ebay.com/itm/154290360394
   - Panels/Display assemblies TBD
     - LVDS 40 displays
     - eDP displays
+    - LP156WD1 LCD panel (from Lenovo T520) 
  - Keyboard
   - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
 
