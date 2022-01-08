@@ -59,6 +59,8 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - LP156WD1 LCD panel (from Lenovo T520) 
  - Keyboard
   - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
+ - Batteries
+  - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
 
 # Good Source
 
