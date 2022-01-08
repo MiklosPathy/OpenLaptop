@@ -77,6 +77,7 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
   - Buy processor.
     - Ryzen 7 Pro 5700GE would be optimal, but can't found anywhere. A Ryzen 7 Pro 5750GE is unnecessary and more expensive, but it can be purchased.
       - 5750GE From Germany https://direkt.jacob.de/produkte/amd-ryzen-7-100-000000257-artnr-7380434.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103
+      - 5750GE Providers in Germany https://geizhals.de/amd-ryzen-7-pro-5750ge-100-000000257-a2536559.html#offerlist
       - 5700GE From Russia (With customs it can be more expensive...) https://www.kns.ru/product/processor-amd-ryzen-7-5700ge-oem/
   - Buy memory.
   - Assemble power supply solution. (Probably first a simple cable with Lab PSU)
