@@ -1,6 +1,6 @@
 # What is this
 
-Open Source PC casing in Laptop form. Based on industry standards for everyday use.
+Open Source PC casing in Laptop form. Based on industry standards. For everyday use.
 
 ![](Current_CAD_Render.png)
 
