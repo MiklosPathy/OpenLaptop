@@ -9,7 +9,7 @@ Open Source PC casing in Laptop form. Based on industry standards. For everyday 
 - Build/develop and maintain your laptop, as you do with your desktop computer.
 - The baseline size factor somewhere around Lenovo T520/W520 (The last known useable laptop in history.)
 - Daily useable computer. So: Up to date x86 architecture, Windows.
-- Keep it as thin as possible, within the limits of commons sense.
+- Keep it as thin as possible, within the limits of common sense.
 - Have keyboard. 
 
 Project ceases: If laptop manufacturers starts to build laptops again with _keyboards_, not with randomly placed buttons.
