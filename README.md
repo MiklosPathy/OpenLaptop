@@ -71,7 +71,8 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
 
 - Display connection proof of concept
   - Buy mainboard
-    - DONE. (Asrock X300TM-ITX) Waiting for delivery. 
+    - DONE. (Asrock X300TM-ITX) Delivered.
+      - 5V on USB looks ok, not starting without processor. Needs processor and memory for further tests.
   - Buy display
     - DONE. I will use my spare LG LCD panel. (LP156WD1)
   - Buy/manufacture display cable
