@@ -83,7 +83,8 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
       - 5750GE Providers in Germany https://geizhals.de/amd-ryzen-7-pro-5750ge-100-000000257-a2536559.html#offerlist
       - 5700GE From Russia (With customs it can be more expensive...) https://www.kns.ru/product/processor-amd-ryzen-7-5700ge-oem/
   - Buy memory.
-    - Crucial CT16G4SFRA32A (2pcs) ordered. Waiting for delivery.
+    - DONE. Crucial CT16G4SFRA32A (2pcs) Delivered.
   - Assemble power supply solution. (Probably first a simple cable with Lab PSU)
+    - DONE.
   - Prove working display
 
