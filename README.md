@@ -59,6 +59,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - LP156WD1 LCD panel (from Lenovo T520) 
  - Keyboard
   - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
+  - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
  - Batteries
   - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
 
@@ -80,6 +81,7 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
   - Buy processor.
     - Ryzen 7 Pro 5700GE would be optimal, but can't found anywhere. A Ryzen 7 Pro 5750GE is unnecessary and more expensive, but it can be purchased.
       - 5750GE From Germany https://direkt.jacob.de/produkte/amd-ryzen-7-100-000000257-artnr-7380434.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103
+        - Ordered. Waiting for delivery.
       - 5750GE Providers in Germany https://geizhals.de/amd-ryzen-7-pro-5750ge-100-000000257-a2536559.html#offerlist
       - 5700GE From Russia (With customs it can be more expensive...) https://www.kns.ru/product/processor-amd-ryzen-7-5700ge-oem/
   - Buy memory.
