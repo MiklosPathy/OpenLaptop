@@ -77,7 +77,7 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
   - Buy display
     - DONE. I will use my spare LG LCD panel. (LP156WD1)
   - Buy/manufacture display cable
-    - DONE. (https://www.ebay.com/itm/154290360394) Waiting for delivery.
+    - DONE. (https://www.ebay.com/itm/154290360394) Delivered.
   - Buy processor.
     - Ryzen 7 Pro 5700GE would be optimal, but can't found anywhere. A Ryzen 7 Pro 5750GE is unnecessary and more expensive, but it can be purchased.
       - 5750GE From Germany https://direkt.jacob.de/produkte/amd-ryzen-7-100-000000257-artnr-7380434.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103
