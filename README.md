@@ -81,12 +81,15 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
   - Buy processor.
     - Ryzen 7 Pro 5700GE would be optimal, but can't found anywhere. A Ryzen 7 Pro 5750GE is unnecessary and more expensive, but it can be purchased.
       - 5750GE From Germany https://direkt.jacob.de/produkte/amd-ryzen-7-100-000000257-artnr-7380434.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103
-        - Ordered. Waiting for delivery.
-      - 5750GE Providers in Germany https://geizhals.de/amd-ryzen-7-pro-5750ge-100-000000257-a2536559.html#offerlist
-      - 5700GE From Russia (With customs it can be more expensive...) https://www.kns.ru/product/processor-amd-ryzen-7-5700ge-oem/
+        - Ordered. Delivered.
   - Buy memory.
     - DONE. Crucial CT16G4SFRA32A (2pcs) Delivered.
   - Assemble power supply solution. (Probably first a simple cable with Lab PSU)
     - DONE.
+  - Mainboard, memory, CPU asembled. Wont POST.
+    - CPU Came one pin bent. For this reason i was not able to put it correctly into the socket. (My eyes starting to go bad) The first power ups were tested halfway in the socket. It consumed 0.4 A with 19.5V. After i discovered the problem, it consumes 0.8A. Still wont POST.
+    - Power LED won't lit up. Not even measurable voltage on the pins.
+    - Strange behaviour happened with my HDMI-DVI cable after the first attempt. The DVI input not works anymore on the monitor.
+    - So far it is disappointing.
   - Prove working display
 
