@@ -91,5 +91,9 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
     - Power LED won't lit up. Not even measurable voltage on the pins.
     - Strange behaviour happened with my HDMI-DVI cable after the first attempt. The DVI input not works anymore on the monitor.
     - So far it is disappointing.
+    - CPU is fine. Looks like, with Asrock main boards, firmware updates are very important. Experimenting with other motherboards, and firmware upgrades for them, i was able to bring the CPU to life.
+    - Unfortunately i fried the X300TM-ITX. Accidentally i cranked up voltage instead of current limit on the lab PSU. The power input went to short.
+      - Wrote to Asrock tech support what part to check/replace. Maybe it is just a bypass diode.
   - Prove working display
+    - Pending...
 
