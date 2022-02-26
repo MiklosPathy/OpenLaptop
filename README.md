@@ -27,7 +27,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 - Display : some LVDS 40 panel with case and hinge, (some eDP or HDMI display would be better, but this is just wishful thinking)
 - Case: Self made, bent/welded aluminium plate casing, 3D printed plastic parts
 - Battery/power management : TBD Currently only external power
-- Sound : TBD Currently external sound
+- Sound : TBD Currently external sound, Laptop speakers with 2mm connector
 
 
 # Hardware ideas
@@ -62,7 +62,8 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
  - Batteries
   - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
-
+ - Speakers
+  - https://www.ebay.com/itm/372675445037?epid=1350074915&hash=item56c530012d:g:ieUAAOSw2-pc5W9w
 # Good Source
 
 http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
