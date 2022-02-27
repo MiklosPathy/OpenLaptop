@@ -96,7 +96,9 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
     - CPU is fine. Looks like, with Asrock main boards, firmware updates are very important. Experimenting with other motherboards, and firmware upgrades for them, i was able to bring the CPU to life.
     - Unfortunately i fried the X300TM-ITX. Accidentally i cranked up voltage instead of current limit on the lab PSU. The power input went to short.
       - Wrote to Asrock tech support what part to check/replace. Maybe it is just a bypass diode.
+        - Asrock support not too supportive. Probably it is a bypass diode anyway. FIX. TODO.
     - Ordered new main board. System is up an running now. ![](State_2022_02_26.png)
+    - DONE.
   - Prove working display
     - Needs to remove display disable jumper and put it to display voltage selector. 3.3V tried.
     - Just realized, the panel needs 650V for the the backlight. Inverter needed.
