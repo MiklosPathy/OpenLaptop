@@ -102,4 +102,4 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
     - Just realized, the panel needs 650V for the the backlight. Inverter needed.
       - Not needed. The exact model number of the LCD is LP156WD1-TL-B2. It needs ~12V. So we are ok. Only the swapping of connectors power and ground pins are necessary. 
     - Display comes up as CH7513A013. Probably this is the on board display controller chip, because independently from the LCD connection it is there as device.
-
+    - 1600x900 option selected in EFI. Backlight is on, no image on LCD. Windows indetifies it as 1440x900 display.
