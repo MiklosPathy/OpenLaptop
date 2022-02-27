@@ -56,7 +56,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - Panels/Display assemblies TBD
     - LVDS 40 displays
     - eDP displays
-    - LP156WD1 LCD panel (from Lenovo T520) 
+    - LP156WD1-TL-B2 LCD panel (from Lenovo T520) 
  - Keyboard
     - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
     - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
@@ -100,5 +100,6 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
   - Prove working display
     - Needs to remove display disable jumper and put it to display voltage selector. 3.3V tried.
     - Just realized, the panel needs 650V for the the backlight. Inverter needed.
+      - Not needed. The exact model number of the LCD is LP156WD1-TL-B2. It needs ~12V. So we are ok. Only the swapping of connectors power and ground pins are necessary. 
     - Display comes up as CH7513A013. Probably this is the on board display controller chip, because independently from the LCD connection it is there as device.
 
