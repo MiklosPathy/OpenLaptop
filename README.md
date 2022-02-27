@@ -98,5 +98,7 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
       - Wrote to Asrock tech support what part to check/replace. Maybe it is just a bypass diode.
     - Ordered new main board. System is up an running now. ![](State_2022_02_26.png)
   - Prove working display
-    - Pending...
+    - Needs to remove display disable jumper and put it to display voltage selector. 3.3V tried.
+    - Just realized, the panel needs 650V for the the backlight. Inverter needed.
+    - Display comes up as CH7513A013. Probably this is the on board display controller chip, because independently from the LCD connection it is there as device.
 
