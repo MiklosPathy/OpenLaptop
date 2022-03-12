@@ -99,9 +99,12 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
         - Asrock support not too supportive. Probably it is a bypass diode anyway. FIX. TODO.
     - Ordered new main board. System is up an running now. ![](State_2022_02_26.png)
     - DONE.
+    - By experience, this CPU sometimes takes 65W or more power. So the 35W limit not true at all.
   - Prove working display
     - Needs to remove display disable jumper and put it to display voltage selector. 3.3V tried.
     - Just realized, the panel needs 650V for the the backlight. Inverter needed.
       - Not needed. The exact model number of the LCD is LP156WD1-TL-B2. It needs ~12V. So we are ok. Only the swapping of connectors power and ground pins are necessary. 
     - Display comes up as CH7513A013. Probably this is the on board display controller chip, because independently from the LCD connection it is there as device.
     - 1600x900 option selected in EFI. Backlight is on, no image on LCD. Windows indetifies it as 1440x900 display.
+      - Connections of the display cable looks fine.
+      - Actually there are no EEDID pins on the mainboard, however the LCD supports it. Maybe there is the problem, the LCD tries/needs to negotiate before displaying anything, but can't. Let's assume Acrock's engineers knew what they do, so next step unpower EEDID.
