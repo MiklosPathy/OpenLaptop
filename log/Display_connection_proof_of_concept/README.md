@@ -1,3 +1,5 @@
+# Display connection proof of concept
+
   - Buy mainboard
     - DONE. (Asrock X300TM-ITX) Delivered.
       - 5V on USB looks ok, not starting without processor. Needs processor and memory for further tests.
