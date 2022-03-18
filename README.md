@@ -108,4 +108,6 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
     - 1600x900 option selected in EFI. Backlight is on, no image on LCD. Windows indetifies it as 1440x900 display.
       - Connections of the display cable looks fine.
       - Actually there are no EEDID pins on the mainboard, however the LCD supports it. Maybe there is the problem, the LCD tries/needs to negotiate before displaying anything, but can't. Let's assume Acrock's engineers knew what they do, so next step unpower EEDID.
-      - With a different panel (Samsung LTN156KT02), but the same settings, there is image. Unfortunatelly the RGB is swapped, and the mainboard reports 1440x900 resolution, not only for windows, but also to the EFI. The EFI setting is still 1600x900x18bit for the LVDS) ![](State_2022_03_18.png)
+    - With a different panel (Samsung LTN156KT02), but the same settings, there is image. Unfortunatelly the RGB is swapped, and the mainboard reports 1440x900 resolution, not only for windows, but also to the EFI. The EFI setting is still 1600x900x18bit for the LVDS) ![](State_2022_03_18_Samsung_LTN156KT02.png)
+    - Another panel tried. AUO B156HW01 V4 Full-HD. There is image, but it is in multiple rows. And the RGB is bad.  ![](State_2022_03_18_AUO_B156HW01V4.png)
+    - Question sent to Asrock support about supported LCD panels. They documentation lacks a list like this.
