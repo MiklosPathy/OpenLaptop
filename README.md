@@ -27,7 +27,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
 - Display : some LVDS 40 panel with case and hinge, (some eDP or HDMI display would be better, but this is just wishful thinking)
 - Case: Self made, bent/welded aluminium plate casing, 3D printed plastic parts
 - Battery/power management : TBD Currently only external power
-- Sound : TBD Currently external sound
+- Sound : TBD Currently external sound, Laptop speakers with 2mm connector
 
 
 # Hardware ideas
@@ -56,12 +56,14 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - Panels/Display assemblies TBD
     - LVDS 40 displays
     - eDP displays
-    - LP156WD1 LCD panel (from Lenovo T520) 
+    - LP156WD1-TL-B2 LCD panel (from Lenovo T520) 
  - Keyboard
-  - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
-  - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
+    - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
+    - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
  - Batteries
-  - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
+    - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
+ - Speakers
+    - https://www.ebay.com/itm/372675445037?epid=1350074915&hash=item56c530012d:g:ieUAAOSw2-pc5W9w
 
 # Good Source
 
@@ -94,7 +96,15 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
     - CPU is fine. Looks like, with Asrock main boards, firmware updates are very important. Experimenting with other motherboards, and firmware upgrades for them, i was able to bring the CPU to life.
     - Unfortunately i fried the X300TM-ITX. Accidentally i cranked up voltage instead of current limit on the lab PSU. The power input went to short.
       - Wrote to Asrock tech support what part to check/replace. Maybe it is just a bypass diode.
-    - Ordered new main board. System is up an running now.
+        - Asrock support not too supportive. Probably it is a bypass diode anyway. FIX. TODO.
+    - Ordered new main board. System is up an running now. ![](State_2022_02_26.png)
+    - DONE.
+    - By experience, this CPU sometimes takes 65W or more power. So the 35W limit not true at all.
   - Prove working display
-    - Pending...
-
+    - Needs to remove display disable jumper and put it to display voltage selector. 3.3V tried.
+    - Just realized, the panel needs 650V for the the backlight. Inverter needed.
+      - Not needed. The exact model number of the LCD is LP156WD1-TL-B2. It needs ~12V. So we are ok. Only the swapping of connectors power and ground pins are necessary. 
+    - Display comes up as CH7513A013. Probably this is the on board display controller chip, because independently from the LCD connection it is there as device.
+    - 1600x900 option selected in EFI. Backlight is on, no image on LCD. Windows indetifies it as 1440x900 display.
+      - Connections of the display cable looks fine.
+      - Actually there are no EEDID pins on the mainboard, however the LCD supports it. Maybe there is the problem, the LCD tries/needs to negotiate before displaying anything, but can't. Let's assume Acrock's engineers knew what they do, so next step unpower EEDID.
