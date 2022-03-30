@@ -38,3 +38,7 @@
     - With a different panel (Samsung LTN156KT02), but the same settings, there is image. Unfortunatelly the RGB is swapped, and the mainboard reports 1440x900 resolution, not only for windows, but also to the EFI. The EFI setting is still 1600x900x18bit for the LVDS) ![](State_2022_03_18_Samsung_LTN156KT02.png)
     - Another panel tried. AUO B156HW01 V4 Full-HD. There is image, but it is in multiple rows. And the RGB is bad.  ![](State_2022_03_18_AUO_B156HW01V4.png)
     - Question sent to Asrock support about supported LCD panels. They documentation lacks a list like this.
+    - ASRock sent a firmware update for the onboard LVDS driver chip. With this update the 1600x900 option in the EFI drives the Samsung_LTN156HT02.
+      - ![](SAMSUNG LTN156KT02.7z)
+      - ![](State_2022_03_30_Samsung_LTN156KT02-C01.png)
+  - Display connection concept prooven.
