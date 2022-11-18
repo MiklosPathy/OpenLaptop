@@ -58,7 +58,8 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - Panels/Display assemblies TBD
     - LVDS 40 displays
     - eDP displays
-    - LP156WD1-TL-B2 LCD panel (from Lenovo T520) 
+    - LP156WD1-TL-B2 LCD panel (from Lenovo T520) -> Selected
+    - B156HW01 V4 LCD panel (from Lenovo W520)
  - Keyboard
     - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
     - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
