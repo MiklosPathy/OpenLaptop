@@ -2,7 +2,7 @@
 
 Open Source PC casing in Laptop form. Based on industry standards. For everyday use.
 
-![](Current_CAD_Render.png)
+![](State_2022_11_18.jpg)
 
 # Goals
 
@@ -37,14 +37,14 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - AAEON MIX-Q370D1 https://www.aaeon.com/en/p/mini-itx-motherboards-mix-q370d1
   - ASUS PRIME H310T R2.0/CSM https://www.asus.com/Motherboards-Components/Motherboards/Business/PRIME-H310T/
   - Asrock IMB-1216 https://www.asrockind.com/IMB-1216
-  - Asrock X300TM-ITX https://www.asrock.com/MB/AMD/X300TM-ITX/index.asp#Overview
+  - Asrock X300TM-ITX https://www.asrock.com/MB/AMD/X300TM-ITX/index.asp#Overview <-- Selected
 - Processor/memory 
   - As motherboard requests
 - Cooling
   - Heatpipies https://www.aliexpress.com/item/32446947034.html
   - Passive cooling through alu case
   - Active cooling with thin coolers https://www.thermaltake.com/C_00003213.htm
-  - Intel Thermal Solution HTS1155lp https://www.ebay.com/itm/334085185276
+  - Intel Thermal Solution HTS1155lp https://www.ebay.com/itm/334085185276 <-- Selected
 - Display
   - Cabling TBD
     - https://www.hklrf.com/LVDS-Cable-for-screen-Asus-N56J-40-pin-p-n-14005-01140000-DDNJ8GLC100-14005-01140100_5180.html
