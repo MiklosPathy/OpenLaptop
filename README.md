@@ -65,8 +65,13 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
     - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
     - Use Thinkpad USB keyboard. https://www.ebay.com/itm/174649516299 <-- Selected
- - Batteries
+ - Power system
     - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
+    - Battery
+      - 8 pieces of 26mm LiFePO4 cells https://www.ebay.com/itm/255105383478
+    - Solar charger https://www.ebay.com/itm/314047150732
+    - DC-DC converter https://www.ebay.com/itm/322962728306
+    - 24 Volt adapter https://www.hestore.hu/prod_10038122.html
  - Speakers
     - https://www.ebay.com/itm/372675445037?epid=1350074915&hash=item56c530012d:g:ieUAAOSw2-pc5W9w
 
