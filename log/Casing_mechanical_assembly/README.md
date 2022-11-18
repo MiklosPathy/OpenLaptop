@@ -2,7 +2,7 @@
 
 The goal is simple a 3D printed case, printable on commercially available 3D printers.
 
-[](State_2022-11-18.png)
+![](State_2022-11-18.png)
 
 - Keep together the parts
 	- Cooling
