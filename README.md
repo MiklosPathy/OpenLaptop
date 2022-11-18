@@ -75,6 +75,6 @@ http://roddines.blogspot.com/2015/12/thin-mini-itx-motherboard-overview.html
 # Current tasks
 
 - [Display connection proof of concept](log/Display_connection_proof_of_concept) - Proven
-- Casing mechanical assembly
-  - Cooling
-  - Keyboard
+- [Casing mechanical assembly](log/Casing_mechanical_assembly/) - In progress
+  - Cooling - cooler selected
+  - Keyboard - keyboard selected
