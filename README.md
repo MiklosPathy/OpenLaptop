@@ -10,7 +10,9 @@ Open Source PC casing in Laptop form. Based on industry standards. For everyday 
 - The baseline size factor somewhere around Lenovo T520/W520 (The last known useable laptop in history.)
 - Daily useable computer. So: Up to date x86 architecture, Windows.
 - Keep it as thin as possible, within the limits of common sense.
-- Have keyboard. 
+- Have _keyboard_. 
+ 
+My definition of keyboard: Something that was totally discontinued after 2012 by all laptop manufacturers. Keyboard with classic IBM layout, especially keeping the original position of the 6 button Ins/Del/Home/End/PgUP/PgDown and 4 button cursors keys in place. Mechanical (scissor mechanics) if possible, but anything can be good with the classic layout. In commercially available laptops something like this was last seen in ThinkPad 25 Anniversary Edition, but only in english layout.
 
 Project ceases: If laptop manufacturers starts to build laptops again with _keyboards_, not with randomly placed buttons.
 
