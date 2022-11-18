@@ -12,7 +12,7 @@ Open Source PC casing in Laptop form. Based on industry standards. For everyday 
 - Keep it as thin as possible, within the limits of common sense.
 - Have _keyboard_. 
  
-My definition of keyboard: Something that was totally discontinued after 2012 by all laptop manufacturers. Keyboard with classic IBM layout, especially keeping the original position of the 6 button Ins/Del/Home/End/PgUP/PgDown and 4 button cursors keys in place. Mechanical (scissor mechanics) if possible, but anything can be good with the classic layout. In commercially available laptops something like this was last seen in ThinkPad 25 Anniversary Edition, but only in english layout.
+My definition of keyboard: Something that was totally discontinued after 2012 by all laptop manufacturers. Keyboard with classic IBM layout, especially keeping the original position of the 6 button Ins/Del/Home/End/PgUP/PgDown and 4 button cursors keys in place. Mechanical (scissor mechanics) if possible, but anything can be good with the classic layout. In commercially available laptops something like this was last seen in ThinkPad 25 Anniversary Edition, but that was only available in english layout.
 
 Project ceases: If laptop manufacturers starts to build laptops again with _keyboards_, not with randomly placed buttons.
 
