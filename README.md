@@ -67,11 +67,12 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - Use Thinkpad USB keyboard. https://www.ebay.com/itm/174649516299 <-- Selected
  - Power system
     - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
-    - Battery
-      - 8 pieces of 26mm LiFePO4 cells https://www.ebay.com/itm/255105383478
-    - Solar charger https://www.ebay.com/itm/314047150732
-    - DC-DC converter https://www.ebay.com/itm/322962728306
-    - 24 Volt adapter https://www.hestore.hu/prod_10038122.html
+    - Self made power system <-- Selected
+      - Battery pack
+        - 8 pieces of 26mm LiFePO4 cells https://www.ebay.com/itm/255105383478
+      - Solar charger https://www.ebay.com/itm/314047150732
+      - DC-DC converter https://www.ebay.com/itm/322962728306
+      - 24 Volt adapter https://www.hestore.hu/prod_10038122.html
  - Speakers
     - https://www.ebay.com/itm/372675445037?epid=1350074915&hash=item56c530012d:g:ieUAAOSw2-pc5W9w
 
