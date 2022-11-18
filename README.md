@@ -42,6 +42,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - Asrock X300TM-ITX https://www.asrock.com/MB/AMD/X300TM-ITX/index.asp#Overview <-- Selected
 - Processor/memory 
   - As motherboard requests
+    - Ryzen 5750GE selected.
 - Cooling
   - Heatpipies https://www.aliexpress.com/item/32446947034.html
   - Passive cooling through alu case
@@ -54,15 +55,16 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
     - https://forums.anandtech.com/threads/lvds-cable-for-the-asus-prime-h310t-csm.2563250/
     - https://www.ebay.com/itm/194591997846?hash=item2d4e963f96:g:yZMAAOSwLCRc93UY
     - LVDS 30 Cable for X300TM-ITX https://www.ebay.com/itm/252878881711?hash=item3ae0c183af:g:RBgAAOSwmCVY9cDk
-    - LVDS 40 Cable between X300TM-ITX and LP156WD1 https://www.ebay.com/itm/154290360394
+    - LVDS 40 Cable between X300TM-ITX and LP156WD1 https://www.ebay.com/itm/154290360394 <-- Selected
   - Panels/Display assemblies TBD
     - LVDS 40 displays
     - eDP displays
-    - LP156WD1-TL-B2 LCD panel (from Lenovo T520) -> Selected
+    - LP156WD1-TL-B2 LCD panel (from Lenovo T520) <-- Selected
     - B156HW01 V4 LCD panel (from Lenovo W520)
  - Keyboard
     - Modified HAMA Casano http://hama.hu/termekek/44-pc-notebook/49-billentyuzet/a791-billentyuzet-casano
     - Use Thinkpad keyboards with Arduino/USB https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
+    - Use Thinkpad USB keyboard. https://www.ebay.com/itm/174649516299 <-- Selected
  - Batteries
     - Mini UPS https://www.alibaba.com/product-detail/Mini-Ups-19v-High-Capacity-Mini_1600336157867.html?spm=a2700.7735675.normal_offer.d_image.3fdf444asZUCm2&s=p
  - Speakers
