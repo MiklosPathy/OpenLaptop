@@ -2,7 +2,7 @@
 
 Open Source PC casing in Laptop form. Based on industry standards. For everyday use.
 
-![](State_2022_11_18.jpg)
+![Project state in 2022-11-18](State_2022_11_18.jpg)
 
 # Goals
 
