@@ -11,6 +11,7 @@ The goal is simple a 3D printed case, printable on commercially available 3D pri
 	- Keyboard
 		- The keyboard is colliding with the cooler block. Workaround needed.
 		- Needs custom cabling.
+		- Needs more stonger chassy
 - Have hinge for closing the lid
 	- Currently the hinge is a 10 mm electrical PVC tube. The cabling to the lid can be easily routed and provides big braking area.
 - Have more or less acceptable cabling
