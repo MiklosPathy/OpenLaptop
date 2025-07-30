@@ -40,6 +40,7 @@ Project ceases: If laptop manufacturers starts to build laptops again with _keyb
   - ASUS PRIME H310T R2.0/CSM https://www.asus.com/Motherboards-Components/Motherboards/Business/PRIME-H310T/
   - Asrock IMB-1216 https://www.asrockind.com/IMB-1216
   - Asrock X300TM-ITX https://www.asrock.com/MB/AMD/X300TM-ITX/index.asp#Overview <-- Selected
+  - Asrock X600TM-ITX https://www.asrock.com/mb/AMD/X600TM-ITX/index.asp (next version of selected MB)
 - Processor/memory 
   - As motherboard requests
     - Ryzen 5750GE selected.
